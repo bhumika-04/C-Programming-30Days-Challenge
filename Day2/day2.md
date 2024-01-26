@@ -13,3 +13,8 @@ Distinguished between assembly language (using mnemonic codes and labels) and ma
 Components of a C Program:
 
 Discussed the components of a C program, including preprocessor directives, function declarations, global variables, main function, user-defined functions, and comments. Explored the specific role and syntax of each component.
+
+Reflection:
+I hope you found this exploration of C programming fundamentals insightful! Stay tuned for more updates on my 30 Days of C journey. 💯
+
+#30DaysOfC #CProgramming #LowLevelLanguage #AssemblyLanguage #MachineLanguage #LinkedIn
