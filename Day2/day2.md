@@ -1,4 +1,5 @@
 Day 2: Exploring Fundamental Concepts in C Programming
+
 Hello, everyone! 👋
 
 Today marks Day 2 of my 30 Days of C challenge, and I delved into some crucial concepts of C programming. 🙌
