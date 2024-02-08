@@ -10,6 +10,18 @@ This repository documents my journey as I revisit and master the fundamentals an
 - [Day 3: Diving Deeper into C Programming](./Day3/day3.md)
 - [Day 4: Foundations of C Programming](./Day4/day4.md)
 - [Day 5: Deep Dive into C Operators](./Day5/day5.md)
+- [Day 6: Unraveling Storage Classes in C](./Day6/day6.md)
+- [Day 7: Deep Dive into C Operators](./Day7/day7.md)
+- [Day 8: Deep Dive into C Operators](./Day8/day8.md)
+- [Day 9: Deep Dive into C Operators](./Day9/day9.md)
+- [Day 10: Deep Dive into C Operators](./Day10/day10.md)
+- [Day 11: Deep Dive into C Operators](./Day11/day11.md)
+- [Day 12: Deep Dive into C Operators](./Day12/day12.md)
+- [Day 13: Deep Dive into C Operators](./Day13/day13.md)
+- [Day 14: Deep Dive into C Operators](./Day14/day14.md)
+- [Day 15: Deep Dive into C Operators](./Day15/day15.md)
+- [Day 16: Deep Dive into C Operators](./Day16/day16.md)
+- 
 - 
 - ...
 - [Day 30: Final Thoughts](./Day30/day30.md)
