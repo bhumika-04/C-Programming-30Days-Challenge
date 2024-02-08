@@ -8,6 +8,7 @@ This repository documents my journey as I revisit and master the fundamentals an
 - [Day 1: Introduction to C Programming'](./Day1/day1.md)
 - [Day 2: Exploring Fundamental Concepts in C Programming](./Day2/day2.md)
 - [Day 3:Diving Deeper into C Programming](./Day3/day3.md)
+- [Day 4:Foundations of C Programming](./Day4/day4.md)
 - 
 - ...
 - [Day 30: Final Thoughts](./Day30/day30.md)
