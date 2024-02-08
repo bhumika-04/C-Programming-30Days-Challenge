@@ -11,7 +11,7 @@ This repository documents my journey as I revisit and master the fundamentals an
 - [Day 4: Foundations of C Programming](./Day4/day4.md)
 - [Day 5: Deep Dive into C Operators](./Day5/day5.md)
 - [Day 6: Unraveling Storage Classes in C](./Day6/day6.md)
-- [Day 7: Deep Dive into C Operators](./Day7/day7.md)
+- [Day 7: Mastering Conditional Statements and Decision Making ](./Day7/day7.md)
 - [Day 8: Deep Dive into C Operators](./Day8/day8.md)
 - [Day 9: Deep Dive into C Operators](./Day9/day9.md)
 - [Day 10: Deep Dive into C Operators](./Day10/day10.md)
