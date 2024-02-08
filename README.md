@@ -15,7 +15,7 @@ This repository documents my journey as I revisit and master the fundamentals an
 - [Day 8: Navigating Data Types, Functions, and Function Parameters](./Day8/day8.md)
 - [Day 9: Mastering Arrays in C!](./Day9/day9.md)
 - [Day 10: Navigating Strings and Understanding the String vs Array Dynamic](./Day10/day10.md)
-- [Day 11: Deep Dive into C Operators](./Day11/day11.md)
+- [Day 11:Unraveling Structures, Unions, and Enums in C](./Day11/day11.md)
 - [Day 12: Deep Dive into C Operators](./Day12/day12.md)
 - [Day 13: Deep Dive into C Operators](./Day13/day13.md)
 - [Day 14: Deep Dive into C Operators](./Day14/day14.md)
