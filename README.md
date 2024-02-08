@@ -14,7 +14,7 @@ This repository documents my journey as I revisit and master the fundamentals an
 - [Day 7: Mastering Conditional Statements and Decision Making ](./Day7/day7.md)
 - [Day 8: Navigating Data Types, Functions, and Function Parameters](./Day8/day8.md)
 - [Day 9: Mastering Arrays in C!](./Day9/day9.md)
-- [Day 10: Deep Dive into C Operators](./Day10/day10.md)
+- [Day 10: Navigating Strings and Understanding the String vs Array Dynamic](./Day10/day10.md)
 - [Day 11: Deep Dive into C Operators](./Day11/day11.md)
 - [Day 12: Deep Dive into C Operators](./Day12/day12.md)
 - [Day 13: Deep Dive into C Operators](./Day13/day13.md)
